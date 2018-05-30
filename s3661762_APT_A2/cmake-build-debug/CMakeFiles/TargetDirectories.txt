@@ -1,0 +1,3 @@
+/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug/CMakeFiles/2018_S2_A2_StartupCode.dir

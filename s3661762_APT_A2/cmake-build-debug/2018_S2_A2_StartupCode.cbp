@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="2018_S2_A2_StartupCode"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2018_S2_A2_StartupCode">
+				<Option output="/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug/2018_S2_A2_StartupCode" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 2018_S2_A2_StartupCode"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2018_S2_A2_StartupCode/fast">
+				<Option output="/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug/2018_S2_A2_StartupCode" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 2018_S2_A2_StartupCode/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/Makefile">
+			<Option target="2018_S2_A2_StartupCode"/>
+		</Unit>
+		<Unit filename="/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/coins.dat">
+			<Option target="2018_S2_A2_StartupCode"/>
+		</Unit>
+		<Unit filename="/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/stock.dat">
+			<Option target="2018_S2_A2_StartupCode"/>
+		</Unit>
+		<Unit filename="/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/utility.c">
+			<Option target="2018_S2_A2_StartupCode"/>
+		</Unit>
+		<Unit filename="/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/utility.h">
+			<Option target="2018_S2_A2_StartupCode"/>
+		</Unit>
+		<Unit filename="/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/vm.c">
+			<Option target="2018_S2_A2_StartupCode"/>
+		</Unit>
+		<Unit filename="/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/vm.h">
+			<Option target="2018_S2_A2_StartupCode"/>
+		</Unit>
+		<Unit filename="/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/vm_coin.c">
+			<Option target="2018_S2_A2_StartupCode"/>
+		</Unit>
+		<Unit filename="/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/vm_coin.h">
+			<Option target="2018_S2_A2_StartupCode"/>
+		</Unit>
+		<Unit filename="/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/vm_menu.c">
+			<Option target="2018_S2_A2_StartupCode"/>
+		</Unit>
+		<Unit filename="/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/vm_menu.h">
+			<Option target="2018_S2_A2_StartupCode"/>
+		</Unit>
+		<Unit filename="/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/vm_options.c">
+			<Option target="2018_S2_A2_StartupCode"/>
+		</Unit>
+		<Unit filename="/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/vm_options.h">
+			<Option target="2018_S2_A2_StartupCode"/>
+		</Unit>
+		<Unit filename="/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/vm_stock.c">
+			<Option target="2018_S2_A2_StartupCode"/>
+		</Unit>
+		<Unit filename="/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/vm_stock.h">
+			<Option target="2018_S2_A2_StartupCode"/>
+		</Unit>
+		<Unit filename="/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/vm_system.h">
+			<Option target="2018_S2_A2_StartupCode"/>
+		</Unit>
+		<Unit filename="/Users/MarinaGawrguos/CLionProjects/2018_S2_A2_StartupCode/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
